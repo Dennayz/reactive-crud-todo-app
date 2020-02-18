@@ -15,11 +15,11 @@
     </properties>
 
     <dependencies>
-        <!--dependency>
+        <dependency>
             <groupId>com.github.alessandroargentieri</groupId>
             <artifactId>ReactiveJ</artifactId>
             <version>1.0.3</version>
-        </dependency-->
+        </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
