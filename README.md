@@ -1,6 +1,8 @@
 # reactive-crud-todo-app
 
-implemented files to learn about Java microservices
+implemented endpoints files of Non-blocking and blocking, reactive and asynchronous Java microservice with ReactiveJ and RxJava2
+
+modification changes can be found in src folder
 
 # Learning Experience
 
