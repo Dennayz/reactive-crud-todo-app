@@ -12,4 +12,5 @@ modification changes can be found in src folder
 - non-blocking embedded Jetty
 - ReactiveJ non-blocking and asynchronous library
 - develop of a synchronous and blocking app with ReactiveJ
+  - https://github.com/alessandroargentieri/ReactiveJ
 - develop of a asynchronous and non blocking app with ReactiveJ and RxJava2
